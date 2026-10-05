@@ -3,7 +3,7 @@ Este repositório é o meu laboratório pessoal enquanto aprendo e domino as tec
 
 - Linguagens em aprendizado
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" widht="30">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" widht="30">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" widht="20">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="30">
 </div>
